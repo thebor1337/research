@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "research"
+version = "0.1.0"
+description = ""
+authors = ["thebor1337 <thebor1337@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+galois = "^0.3.8"
+py-ecc = "^7.0.0"
+scipy = "^1.12.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
