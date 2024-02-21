@@ -10,6 +10,7 @@ python = "^3.10"
 galois = "^0.3.8"
 py-ecc = "^7.0.0"
 scipy = "^1.12.0"
+pysha3 = "^1.0.2"
 
 
 [build-system]
